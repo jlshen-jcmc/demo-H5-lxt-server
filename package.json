@@ -1,0 +1,12 @@
+{
+  "name": "demo-H5-lxt-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jlshen-jcmc/demo-H5-lxt-server.git",
+  "author": "jlshen <28384465@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}

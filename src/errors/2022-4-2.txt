@@ -1,0 +1,91 @@
+
+    发生时间：2022-4-2 21:13:7
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
+    发生时间：2022-4-2 21:13:35
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
+    发生时间：2022-4-2 21:13:39
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
+    发生时间：2022-4-2 21:13:42
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
+    发生时间：2022-4-2 21:13:42
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
+    发生时间：2022-4-2 21:13:43
+    错误类型：ReferenceError
+    错误描述：abc is not defined
+    错误堆栈：ReferenceError: abc is not defined
+    at E:\demo-H5-lxt-server\src\rizhiM.js:17:5
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\demo-H5-lxt-server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:341:12)
+    at next (E:\demo-H5-lxt-server\node_modules\express\lib\router\index.js:275:10)
+    at E:\demo-H5-lxt-server\src\middlewares\sz-rizhiM.js:39:9
+    at Layer.handle [as handle_request] (E:\demo-H5-lxt-server\node_modules\express\lib\router\layer.js:95:5)
+    
