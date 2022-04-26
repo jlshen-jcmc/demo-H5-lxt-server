@@ -1,6 +1,7 @@
 const {getCurrentTime, getCurrentDate} = require("./dateTime");
 const fs = require("fs");
 const path = require("path");
+const {sendmail}=require("./sendEmail")
 
 let handleErrorsMF = function (errfilePath,responseErrFilePath){
 
@@ -20,7 +21,7 @@ let handleErrorsMF = function (errfilePath,responseErrFilePath){
     错误堆栈：${err_stack}
     `
         fs.appendFile(errfilePath,err_info,()=>{
-
+            sendmail("28384465@qq.com","错误报告",err_info)
         })
 
         resp.status(500).sendFile(responseErrFilePath)
